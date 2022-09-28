@@ -1,821 +1,574 @@
 #EXTM3U
-#EXTINF:0 tvg-id="AyE.mx" group-title="Entretenimiento",A&E
-https://v3.playerlatino.live/stream/m3u8/1
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",A&E Sur
-https://v3.playerlatino.live/stream/m3u8/474
-#EXTINF:0 tvg-id="mgm-int" group-title="Entretenimiento",AMC
-https://v3.playerlatino.live/stream/m3u8/183
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Anime 24H
-https://v3.playerlatino.live/stream/m3u8/269
-#EXTINF:0 tvg-id="AXN.bg" group-title="Entretenimiento",AXN
-https://v3.playerlatino.live/stream/m3u8/146
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",AXN Sur
-https://v3.playerlatino.live/stream/m3u8/804
-#EXTINF:0 tvg-id="AzClic.mx" group-title="Entretenimiento",Az Clic
-https://v3.playerlatino.live/stream/m3u8/165
-#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Entretenimiento",Az Corazón
-https://v3.playerlatino.live/stream/m3u8/166
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Breaking Bad 24/7
-https://v3.playerlatino.live/stream/m3u8/846
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Candy Candy 24/7
-https://v3.playerlatino.live/stream/m3u8/808
-#EXTINF:0 tvg-id="CaracolTV.us" group-title="Entretenimiento",Caracol Internacional
-https://v3.playerlatino.live/stream/m3u8/290
-#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Entretenimiento",Comedy Central
-https://v3.playerlatino.live/stream/m3u8/135
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Comedy Central Sur
-https://v3.playerlatino.live/stream/m3u8/740
-#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Entretenimiento",Distrito Comedia
-https://v3.playerlatino.live/stream/m3u8/32
-#EXTINF:0 tvg-id="E.uk" group-title="Entretenimiento",E!
-https://v3.playerlatino.live/stream/m3u8/33
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",El Gallo Claudio 24/7
-https://v3.playerlatino.live/stream/m3u8/845
-#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Entretenimiento",El Gourmet
-https://v3.playerlatino.live/stream/m3u8/157
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",El Señor de los Cielos 24/7
-https://v3.playerlatino.live/stream/m3u8/820
-#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Entretenimiento",Estrella TV
-https://v3.playerlatino.live/stream/m3u8/177
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Fox Sur
-https://v3.playerlatino.live/stream/m3u8/750
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Fox Life Sur
-https://v3.playerlatino.live/stream/m3u8/746
-#EXTINF:0 tvg-id="FX.uk" group-title="Entretenimiento",FX
-https://v3.playerlatino.live/stream/m3u8/42
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",FX Sur
-https://v3.playerlatino.live/stream/m3u8/749
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Garfield 24/7
-https://v3.playerlatino.live/stream/m3u8/812
-#EXTINF:0 tvg-id="Glitz.mx" group-title="Entretenimiento",Glitz
-https://v3.playerlatino.live/stream/m3u8/158
-#EXTINF:0 tvg-id="HolaTV.us" group-title="Entretenimiento",Hola TV
-https://v3.playerlatino.live/stream/m3u8/189
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",La Familia PeLuche 24/7
-https://v3.playerlatino.live/stream/m3u8/811
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",La Vaca y ElPollito 24/7
-https://v3.playerlatino.live/stream/m3u8/809
-#EXTINF:0 tvg-id="Lifetime.uk" group-title="Entretenimiento",Lifetime
-https://v3.playerlatino.live/stream/m3u8/152
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Los Años Maravillosos 24/7
-https://v3.playerlatino.live/stream/m3u8/810
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Los Padrinos Magicos 24/7
-https://v3.playerlatino.live/stream/m3u8/813
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Los Vengadores Unidos 24/7
-https://v3.playerlatino.live/stream/m3u8/818
-#EXTINF:0 tvg-id="Maschic.mx" group-title="Entretenimiento",Más chic
-https://v3.playerlatino.live/stream/m3u8/180
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Max Steel 24/7
-https://v3.playerlatino.live/stream/m3u8/880
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Miami TV
-https://v3.playerlatino.live/stream/m3u8/251
-#EXTINF:0 tvg-id="mtv-rus" group-title="Entretenimiento",MTV
-https://v3.playerlatino.live/stream/m3u8/69
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",MTV Sur
-https://v3.playerlatino.live/stream/m3u8/823
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Patoaventuras 24/7
-https://v3.playerlatino.live/stream/m3u8/819
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Patrulla Canina 24/7
-https://v3.playerlatino.live/stream/m3u8/807
-#EXTINF:0 tvg-id="Ppv1.br" group-title="Entretenimiento",PPV 1
-https://v3.playerlatino.live/stream/m3u8/847
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 10
-https://v3.playerlatino.live/stream/m3u8/856
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 11
-https://v3.playerlatino.live/stream/m3u8/858
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 12
-https://v3.playerlatino.live/stream/m3u8/859
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 13
-https://v3.playerlatino.live/stream/m3u8/860
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 14
-https://v3.playerlatino.live/stream/m3u8/862
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 15
-https://v3.playerlatino.live/stream/m3u8/863
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 16
-https://v3.playerlatino.live/stream/m3u8/864
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 17
-https://v3.playerlatino.live/stream/m3u8/865
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 18
-https://v3.playerlatino.live/stream/m3u8/866
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 19
-https://v3.playerlatino.live/stream/m3u8/861
-#EXTINF:0 tvg-id="Ppv2.br" group-title="Entretenimiento",PPV 2
-https://v3.playerlatino.live/stream/m3u8/848
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 20
-https://v3.playerlatino.live/stream/m3u8/867
-#EXTINF:0 tvg-id="Ppv3.br" group-title="Entretenimiento",PPV 3
-https://v3.playerlatino.live/stream/m3u8/849
-#EXTINF:0 tvg-id="Ppv4.br" group-title="Entretenimiento",PPV 4
-https://v3.playerlatino.live/stream/m3u8/850
-#EXTINF:0 tvg-id="Ppv5.br" group-title="Entretenimiento",PPV 5
-https://v3.playerlatino.live/stream/m3u8/851
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 6
-https://v3.playerlatino.live/stream/m3u8/852
-#EXTINF:0 tvg-id="Ppv7.br" group-title="Entretenimiento",PPV 7
-https://v3.playerlatino.live/stream/m3u8/853
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 8
-https://v3.playerlatino.live/stream/m3u8/854
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",PPV 9
-https://v3.playerlatino.live/stream/m3u8/855
-#EXTINF:0 tvg-id="set" group-title="Entretenimiento",Sony
-https://v3.playerlatino.live/stream/m3u8/145
-#EXTINF:0 tvg-id="star.gr" group-title="Entretenimiento",Star
-https://v3.playerlatino.live/stream/m3u8/45
-#EXTINF:0 tvg-id="StarOne.uk" group-title="Entretenimiento",Star Life
-https://v3.playerlatino.live/stream/m3u8/50
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Star Series
-https://v3.playerlatino.live/stream/m3u8/303
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Star Series Sur
-https://v3.playerlatino.live/stream/m3u8/745
-#EXTINF:0 tvg-id="TBS.mx" group-title="Entretenimiento",TBS Very Funny
-https://v3.playerlatino.live/stream/m3u8/171
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",TC Ecuador
-https://v3.playerlatino.live/stream/m3u8/885
-#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Entretenimiento",TeleFórmula
-https://v3.playerlatino.live/stream/m3u8/182
-#EXTINF:0 tvg-id="Telemundo.mx" group-title="Entretenimiento",Telemundo
-https://v3.playerlatino.live/stream/m3u8/92
-#EXTINF:0 tvg-id="tlc-russia" group-title="Entretenimiento",TLC
-https://v3.playerlatino.live/stream/m3u8/87
-#EXTINF:0 tvg-id="Tlnovelas.mx" group-title="Entretenimiento",Tlnovelas
-https://v3.playerlatino.live/stream/m3u8/94
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Entretenimiento",TNT Series
-https://v3.playerlatino.live/stream/m3u8/90
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",TNT Series Sur
-https://v3.playerlatino.live/stream/m3u8/757
-#EXTINF:0 tvg-id="TruTV.uk" group-title="Entretenimiento",TruTV
-https://v3.playerlatino.live/stream/m3u8/96
-#EXTINF:0 tvg-id="Unicable.mx" group-title="Entretenimiento",Unicable
-https://v3.playerlatino.live/stream/m3u8/98
-#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Entretenimiento",Univision
-https://v3.playerlatino.live/stream/m3u8/99
-#EXTINF:0 tvg-id="Univisiontlnovelas.us" group-title="Entretenimiento",Univision Tlnovelas
-https://v3.playerlatino.live/stream/m3u8/413
-#EXTINF:0 tvg-id="WarnerChannel.mx" group-title="Entretenimiento",Warner Channel
-https://v3.playerlatino.live/stream/m3u8/102
-#EXTINF:0 tvg-id="ext" group-title="Entretenimiento",Warner Channel Sur
-https://v3.playerlatino.live/stream/m3u8/759
-
-#EXTINF:0 tvg-id="A+.civ" group-title="Mexico",A+
-https://v3.playerlatino.live/stream/m3u8/406
-#EXTINF:0 tvg-id="ext" group-title="Mexico",Azteca 1
-https://v3.playerlatino.live/stream/m3u8/4
-#EXTINF:0 tvg-id="Azteca7.mx" group-title="Mexico",Azteca 7
-https://v3.playerlatino.live/stream/m3u8/5
-#EXTINF:0 tvg-id="Canal5.mx" group-title="Mexico",Canal 5
-https://v3.playerlatino.live/stream/m3u8/14
-#EXTINF:0 tvg-id="CanalEstrellas.es" group-title="Mexico",Canal de las Estrellas
-https://v3.playerlatino.live/stream/m3u8/411
-#EXTINF:0 tvg-id="ext" group-title="Mexico",Canal de las Estrellas Sur
-https://v3.playerlatino.live/stream/m3u8/736
-#EXTINF:0 tvg-id="OnceTV.mx" group-title="Mexico",Canal Once
-https://v3.playerlatino.live/stream/m3u8/15
-#EXTINF:0 tvg-id="GalaTV.mx" group-title="Mexico",Gala TV
-https://v3.playerlatino.live/stream/m3u8/56
-#EXTINF:0 tvg-id="ImagenTV.mx" group-title="Mexico",Imagen Television
-https://v3.playerlatino.live/stream/m3u8/341
-#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Mexico",Multimedios
-https://v3.playerlatino.live/stream/m3u8/155
-#EXTINF:0 tvg-id="ext" group-title="Mexico",RCG TV Coahuila
-https://v3.playerlatino.live/stream/m3u8/346
-
-#EXTINF:0 tvg-id="Atreseries.es" group-title="España",A3Series
-https://v3.playerlatino.live/stream/m3u8/444
-#EXTINF:0 tvg-id="AMC.es" group-title="España",AMC ES
-https://v3.playerlatino.live/stream/m3u8/715
-#EXTINF:0 tvg-id="Antena3.ro" group-title="España",Antena 3
-https://v3.playerlatino.live/stream/m3u8/298
-#EXTINF:0 tvg-id="AXNhd.es" group-title="España",AXN (ES)
-https://v3.playerlatino.live/stream/m3u8/713
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="España",AXN WHITE (ES)
-https://v3.playerlatino.live/stream/m3u8/714
-#EXTINF:0 tvg-id="M.Accion.es" group-title="España",Canal+ Accion
-https://v3.playerlatino.live/stream/m3u8/364
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="España",Comedy Central (ES)
-https://v3.playerlatino.live/stream/m3u8/719
-#EXTINF:0 tvg-id="ext" group-title="España",Crime Investigation (ES)
-https://v3.playerlatino.live/stream/m3u8/720
-#EXTINF:0 tvg-id="Historia.es" group-title="España",Historia (ES)
-https://v3.playerlatino.live/stream/m3u8/718
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="España",La Sexta
-https://v3.playerlatino.live/stream/m3u8/326
-#EXTINF:0 tvg-id="ext" group-title="España",Mega (ES)
-https://v3.playerlatino.live/stream/m3u8/352
-#EXTINF:0 tvg-id="M.Comedia.es" group-title="España",Movistar Comedia
-https://v3.playerlatino.live/stream/m3u8/370
-#EXTINF:0 tvg-id="CanalPlusXtra.sp" group-title="España",Movistar Xtra
-https://v3.playerlatino.live/stream/m3u8/372
-#EXTINF:0 tvg-id="ext" group-title="España",MTV (ES)
-https://v3.playerlatino.live/stream/m3u8/803
-#EXTINF:0 tvg-id="Neox.es" group-title="España",Neox (ES)
-https://v3.playerlatino.live/stream/m3u8/353
-#EXTINF:0 tvg-id="Nova.es" group-title="España",Nova (ES)
-https://v3.playerlatino.live/stream/m3u8/717
-#EXTINF:0 tvg-id="TNT.es" group-title="España",TNT (ES)
-https://v3.playerlatino.live/stream/m3u8/716
-#EXTINF:0 tvg-id="TVE.se" group-title="España",TVE
-https://v3.playerlatino.live/stream/m3u8/195
-
-#EXTINF:0 tvg-id="ext" group-title="Noticias",ADN 40
-https://v3.playerlatino.live/stream/m3u8/447
-#EXTINF:0 tvg-id="CNNesp.mx" group-title="Noticias",CNN en Español
-https://v3.playerlatino.live/stream/m3u8/136
-#EXTINF:0 tvg-id="ext" group-title="Noticias",Efekto TV
-https://v3.playerlatino.live/stream/m3u8/275
-#EXTINF:0 tvg-id="ext" group-title="Noticias",MVS Noticias
-https://v3.playerlatino.live/stream/m3u8/448
-
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Afizzionados
-https://v3.playerlatino.live/stream/m3u8/878
-#EXTINF:0 tvg-id="AyMSports.mx" group-title="Deportes",AyM Sports
-https://v3.playerlatino.live/stream/m3u8/148
-#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Deportes",BeinSports
-https://v3.playerlatino.live/stream/m3u8/753
-#EXTINF:0 tvg-id="ext" group-title="Deportes",BeinSports Ñ
-https://v3.playerlatino.live/stream/m3u8/761
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Deportes",Canal+ Toros
-https://v3.playerlatino.live/stream/m3u8/369
-#EXTINF:0 tvg-id="CDFPremium.cl" group-title="Deportes",CDF Premium
-https://v3.playerlatino.live/stream/m3u8/318
-#EXTINF:0 tvg-id="ext" group-title="Deportes",CDN Sportsmax
-https://v3.playerlatino.live/stream/m3u8/206
-#EXTINF:0 tvg-id="ext" group-title="Deportes",CDO
-https://v3.playerlatino.live/stream/m3u8/513
-#EXTINF:0 tvg-id="ext" group-title="Deportes",CDO Premium
-https://v3.playerlatino.live/stream/m3u8/401
-#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Deportes",Claro Sports
-https://v3.playerlatino.live/stream/m3u8/328
-#EXTINF:0 tvg-id="DeporTV.ar" group-title="Deportes",DeporTV
-https://v3.playerlatino.live/stream/m3u8/139
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirectTV Sports
-https://v3.playerlatino.live/stream/m3u8/259
-#EXTINF:0 tvg-id="ext" group-title="Deportes",DirectTV Sports 2
-https://v3.playerlatino.live/stream/m3u8/667
-#EXTINF:0 tvg-id="ESPN.uk" group-title="Deportes",ESPN
-https://v3.playerlatino.live/stream/m3u8/34
-#EXTINF:0 tvg-id="ESPN2.mx" group-title="Deportes",ESPN 2
-https://v3.playerlatino.live/stream/m3u8/35
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN 2 MX
-https://v3.playerlatino.live/stream/m3u8/531
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN Chile
-https://v3.playerlatino.live/stream/m3u8/842
-#EXTINF:0 tvg-id="ext" group-title="Deportes",ESPN MX
-https://v3.playerlatino.live/stream/m3u8/530
-#EXTINF:0 tvg-id="ESPN3.br" group-title="Deportes",ESPN Plus
-https://v3.playerlatino.live/stream/m3u8/37
-#EXTINF:0 tvg-id="esp" group-title="Deportes",Eurosport
-https://v3.playerlatino.live/stream/m3u8/39
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Formula 1 TV (F1)
-https://v3.playerlatino.live/stream/m3u8/192
-#EXTINF:0 tvg-id="FoxSports.it" group-title="Deportes",Fox Sports
-https://v3.playerlatino.live/stream/m3u8/52
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox Sports 2
-https://v3.playerlatino.live/stream/m3u8/53
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Deportes",Fox Sports 2 MX
-https://v3.playerlatino.live/stream/m3u8/528
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Deportes",Fox Sports 3
-https://v3.playerlatino.live/stream/m3u8/54
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX
-https://v3.playerlatino.live/stream/m3u8/527
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports MX Sur
-https://v3.playerlatino.live/stream/m3u8/748
-#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="Deportes",Fox Sports Premium
-https://v3.playerlatino.live/stream/m3u8/512
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Sur
-https://v3.playerlatino.live/stream/m3u8/402
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Sur 2
-https://v3.playerlatino.live/stream/m3u8/410
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Fox Sports Sur 3
-https://v3.playerlatino.live/stream/m3u8/511
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Gol Peru
-https://v3.playerlatino.live/stream/m3u8/686
-#EXTINF:0 tvg-id="GolTV.cl" group-title="Deportes",Gol TV
-https://v3.playerlatino.live/stream/m3u8/287
-#EXTINF:0 tvg-id="GolTV.cl" group-title="Deportes",Gol TV OP2
-https://v3.playerlatino.live/stream/m3u8/514
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Liga de Campeones
-https://v3.playerlatino.live/stream/m3u8/890
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Liga de Campeones 2
-https://v3.playerlatino.live/stream/m3u8/893
-#EXTINF:0 tvg-id="MLBNetwork.us" group-title="Deportes",MLB Network
-https://v3.playerlatino.live/stream/m3u8/293
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Deportes",Movistar Deportes
-https://v3.playerlatino.live/stream/m3u8/366
-#EXTINF:0 tvg-id="M.Deportes2.es" group-title="Deportes",Movistar Deportes 2
-https://v3.playerlatino.live/stream/m3u8/367
-#EXTINF:0 tvg-id="NBA.blt" group-title="Deportes",NBA
-https://v3.playerlatino.live/stream/m3u8/838
-#EXTINF:0 tvg-id="NFLNetwork.mx" group-title="Deportes",NFL Network
-https://v3.playerlatino.live/stream/m3u8/204
-#EXTINF:0 tvg-id="ext" group-title="Deportes",PX TV
-https://v3.playerlatino.live/stream/m3u8/193
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Deportes",Real Madrid TV
-https://v3.playerlatino.live/stream/m3u8/270
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TigoSports Bolivia
-https://v3.playerlatino.live/stream/m3u8/764
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TigoSports Paraguay
-https://v3.playerlatino.live/stream/m3u8/843
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TNT Sports
-https://v3.playerlatino.live/stream/m3u8/509
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN
-https://v3.playerlatino.live/stream/m3u8/698
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN (Pocos Datos)
-https://v3.playerlatino.live/stream/m3u8/822
-#EXTINF:0 tvg-id="ext" group-title="Deportes",TUDN USA
-https://v3.playerlatino.live/stream/m3u8/86
-#EXTINF:0 tvg-id="TVCDeportes.mx" group-title="Deportes",TVC Deportes
-https://v3.playerlatino.live/stream/m3u8/837
-#EXTINF:0 tvg-id="TyCSports.ar" group-title="Deportes",Tyc Sports
-https://v3.playerlatino.live/stream/m3u8/274
-#EXTINF:0 tvg-id="ext" group-title="Deportes",UFC Network
-https://v3.playerlatino.live/stream/m3u8/97
-#EXTINF:0 tvg-id="UnivisionDeportesNetwork.us" group-title="Deportes",Univisión Deportes
-https://v3.playerlatino.live/stream/m3u8/373
-#EXTINF:0 tvg-id="UnivisionTDN.mx" group-title="Deportes",Univisión TDN
-https://v3.playerlatino.live/stream/m3u8/100
-#EXTINF:0 tvg-id="ext" group-title="Deportes",Win Sports
-https://v3.playerlatino.live/stream/m3u8/292
-#EXTINF:0 tvg-id="WWE.ca" group-title="Deportes",WWE Network
-https://v3.playerlatino.live/stream/m3u8/276
-
-#EXTINF:0 tvg-id="ext" group-title="24/7",Alf 24/7
-https://v3.playerlatino.live/stream/m3u8/426
-#EXTINF:0 tvg-id="ext" group-title="24/7",Animaniacs 24/7
-https://v3.playerlatino.live/stream/m3u8/677
-#EXTINF:0 tvg-id="ext" group-title="24/7",Barbie 24/7
-https://v3.playerlatino.live/stream/m3u8/788
-#EXTINF:0 tvg-id="ext" group-title="24/7",Bleach 24/7
-https://v3.playerlatino.live/stream/m3u8/883
-#EXTINF:0 tvg-id="ext" group-title="24/7",Bob Esponja 24/7
-https://v3.playerlatino.live/stream/m3u8/518
-#EXTINF:0 tvg-id="ext" group-title="24/7",Brickleberry 24/7
-https://v3.playerlatino.live/stream/m3u8/789
-#EXTINF:0 tvg-id="ext" group-title="24/7",Caballeros del Zodiaco 24/7
-https://v3.playerlatino.live/stream/m3u8/427
-#EXTINF:0 tvg-id="ext" group-title="24/7",Cantinflas 24/7
-https://v3.playerlatino.live/stream/m3u8/428
-#EXTINF:0 tvg-id="ext" group-title="24/7",CatDog 24/7
-https://v3.playerlatino.live/stream/m3u8/785
-#EXTINF:0 tvg-id="ext" group-title="24/7",Chapulin Colorado 24/7
-https://v3.playerlatino.live/stream/m3u8/418
-#EXTINF:0 tvg-id="ext" group-title="24/7",Chespirito 24/7
-https://v3.playerlatino.live/stream/m3u8/417
-#EXTINF:0 tvg-id="ext" group-title="24/7",Coraje el Perro Cobarde 24/7
-https://v3.playerlatino.live/stream/m3u8/519
-#EXTINF:0 tvg-id="ext" group-title="24/7",Dinosaurios 24/7
-https://v3.playerlatino.live/stream/m3u8/670
-#EXTINF:0 tvg-id="ext" group-title="24/7",Doraemon 24/7
-https://v3.playerlatino.live/stream/m3u8/521
-#EXTINF:0 tvg-id="ext" group-title="24/7",Dragon Ball 24/7
-https://v3.playerlatino.live/stream/m3u8/425
-#EXTINF:0 tvg-id="ext" group-title="24/7",Dragon Ball GT 24/7
-https://v3.playerlatino.live/stream/m3u8/520
-#EXTINF:0 tvg-id="ext" group-title="24/7",Dragon Ball Super 24/7
-https://v3.playerlatino.live/stream/m3u8/424
-#EXTINF:0 tvg-id="ext" group-title="24/7",Dragon Ball Z 24/7
-https://v3.playerlatino.live/stream/m3u8/329
-#EXTINF:0 tvg-id="ext" group-title="24/7",El Chavo Animado 24/7
-https://v3.playerlatino.live/stream/m3u8/790
-#EXTINF:0 tvg-id="ext" group-title="24/7",El Chavo del 8 24/7
-https://v3.playerlatino.live/stream/m3u8/400
-#EXTINF:0 tvg-id="ext" group-title="24/7",El Coyote y el Correcaminos 24/7
-https://v3.playerlatino.live/stream/m3u8/429
-#EXTINF:0 tvg-id="ext" group-title="24/7",El Increible Mundo de Gumball 24/7
-https://v3.playerlatino.live/stream/m3u8/791
-#EXTINF:0 tvg-id="ext" group-title="24/7",El Pajaro Loco 24/7
-https://v3.playerlatino.live/stream/m3u8/525
-#EXTINF:0 tvg-id="ext" group-title="24/7",El Principel del Rap 24/7
-https://v3.playerlatino.live/stream/m3u8/430
-#EXTINF:0 tvg-id="ext" group-title="24/7",Futurama 24/7
-https://v3.playerlatino.live/stream/m3u8/793
-#EXTINF:0 tvg-id="ext" group-title="24/7",Game of Thrones 24/7
-https://v3.playerlatino.live/stream/m3u8/515
-#EXTINF:0 tvg-id="ext" group-title="24/7",Hey Arnold 24/7
-https://v3.playerlatino.live/stream/m3u8/522
-#EXTINF:0 tvg-id="ext" group-title="24/7",Johnny Bravo 24/7
-https://v3.playerlatino.live/stream/m3u8/786
-#EXTINF:0 tvg-id="ext" group-title="24/7",La Casa de Papel 24/7
-https://v3.playerlatino.live/stream/m3u8/403
-#EXTINF:0 tvg-id="ext" group-title="24/7",La Hora Pico 24/7
-https://v3.playerlatino.live/stream/m3u8/887
-#EXTINF:0 tvg-id="ext" group-title="24/7",La Pantera Rosa 24/7
-https://v3.playerlatino.live/stream/m3u8/671
-#EXTINF:0 tvg-id="ext" group-title="24/7",La Pequeña Lulu 24/7
-https://v3.playerlatino.live/stream/m3u8/792
-#EXTINF:0 tvg-id="ext" group-title="24/7",La Rosa de Guadalupe 24/7
-https://v3.playerlatino.live/stream/m3u8/886
-#EXTINF:0 tvg-id="ext" group-title="24/7",Le Temes a la Oscuridad 24/7
-https://v3.playerlatino.live/stream/m3u8/888
-#EXTINF:0 tvg-id="ext" group-title="24/7",Looney Tunes 24/7
-https://v3.playerlatino.live/stream/m3u8/524
-#EXTINF:0 tvg-id="ext" group-title="24/7",Los 3 Chiflados 24/7
-https://v3.playerlatino.live/stream/m3u8/423
-#EXTINF:0 tvg-id="ext" group-title="24/7",Los Picapiedra 24/7
-https://v3.playerlatino.live/stream/m3u8/669
-#EXTINF:0 tvg-id="ext" group-title="24/7",Los Pinguinos de Madagascar 24/7
-https://v3.playerlatino.live/stream/m3u8/794
-#EXTINF:0 tvg-id="ext" group-title="24/7",Los Pitufos 24/7
-https://v3.playerlatino.live/stream/m3u8/795
-#EXTINF:0 tvg-id="ext" group-title="24/7",Los Reyes de la Colina 24/7
-https://v3.playerlatino.live/stream/m3u8/796
-#EXTINF:0 tvg-id="ext" group-title="24/7",Los Simpson 24/7
-https://v3.playerlatino.live/stream/m3u8/357
-#EXTINF:0 tvg-id="ext" group-title="24/7",Los Supersonicos 24/7
-https://v3.playerlatino.live/stream/m3u8/797
-#EXTINF:0 tvg-id="ext" group-title="24/7",Malcolm 24/7
-https://v3.playerlatino.live/stream/m3u8/798
-#EXTINF:0 tvg-id="ext" group-title="24/7",Mr. Bean 24/7
-https://v3.playerlatino.live/stream/m3u8/431
-#EXTINF:0 tvg-id="ext" group-title="24/7",Naruto 24/7
-https://v3.playerlatino.live/stream/m3u8/523
-#EXTINF:0 tvg-id="ext" group-title="24/7",One Punch Man 24/7
-https://v3.playerlatino.live/stream/m3u8/661
-#EXTINF:0 tvg-id="ext" group-title="24/7",Padre de Familia 24/7
-https://v3.playerlatino.live/stream/m3u8/416
-#EXTINF:0 tvg-id="ext" group-title="24/7",Peppa Pig 24/7
-https://v3.playerlatino.live/stream/m3u8/787
-#EXTINF:0 tvg-id="ext" group-title="24/7",Pinky y Cerebro 24/7
-https://v3.playerlatino.live/stream/m3u8/721
-#EXTINF:0 tvg-id="ext" group-title="24/7",Pocoyo 24/7
-https://v3.playerlatino.live/stream/m3u8/799
-#EXTINF:0 tvg-id="ext" group-title="24/7",Pokemon 24/7
-https://v3.playerlatino.live/stream/m3u8/420
-#EXTINF:0 tvg-id="ext" group-title="24/7",Prison Break 24/7
-https://v3.playerlatino.live/stream/m3u8/884
-#EXTINF:0 tvg-id="ext" group-title="24/7",Ranma 1/2 24/7
-https://v3.playerlatino.live/stream/m3u8/419
-#EXTINF:0 tvg-id="ext" group-title="24/7",Sakura Card Captor 24/7
-https://v3.playerlatino.live/stream/m3u8/672
-#EXTINF:0 tvg-id="ext" group-title="24/7",Samurai X 24/7
-https://v3.playerlatino.live/stream/m3u8/663
-#EXTINF:0 tvg-id="ext" group-title="24/7",Scooby Doo 24/7
-https://v3.playerlatino.live/stream/m3u8/422
-#EXTINF:0 tvg-id="ext" group-title="24/7",Smallville 24/7
-https://v3.playerlatino.live/stream/m3u8/673
-#EXTINF:0 tvg-id="ext" group-title="24/7",South Park 24/7
-https://v3.playerlatino.live/stream/m3u8/674
-#EXTINF:0 tvg-id="ext" group-title="24/7",Spiderman 24/7
-https://v3.playerlatino.live/stream/m3u8/889
-#EXTINF:0 tvg-id="ext" group-title="24/7",Super Campeones 24/7
-https://v3.playerlatino.live/stream/m3u8/432
-#EXTINF:0 tvg-id="ext" group-title="24/7",The Big Bang Theory 24/7
-https://v3.playerlatino.live/stream/m3u8/676
-#EXTINF:0 tvg-id="ext" group-title="24/7",The Walking Dead 24/7
-https://v3.playerlatino.live/stream/m3u8/800
-#EXTINF:0 tvg-id="ext" group-title="24/7",Tom y Jerry 24/7
-https://v3.playerlatino.live/stream/m3u8/421
-#EXTINF:0 tvg-id="ext" group-title="24/7",TrollHunters 24/7
-https://v3.playerlatino.live/stream/m3u8/662
-#EXTINF:0 tvg-id="ext" group-title="24/7",Two And a Half Men 24/7
-https://v3.playerlatino.live/stream/m3u8/675
-#EXTINF:0 tvg-id="ext" group-title="24/7",Yu-Gi-Oh! 24/7
-https://v3.playerlatino.live/stream/m3u8/664
-
-#EXTINF:0 tvg-id="America2.ar" group-title="Peru",America
-https://v3.playerlatino.live/stream/m3u8/780
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: América TV
-https://v3.playerlatino.live/stream/m3u8/304
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: Antares TV
-https://v3.playerlatino.live/stream/m3u8/451
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: BHTV
-https://v3.playerlatino.live/stream/m3u8/399
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: La Luz
-https://v3.playerlatino.live/stream/m3u8/338
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: Latina
-https://v3.playerlatino.live/stream/m3u8/317
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: Plus TV
-https://v3.playerlatino.live/stream/m3u8/337
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: RBC
-https://v3.playerlatino.live/stream/m3u8/220
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: RPP
-https://v3.playerlatino.live/stream/m3u8/336
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: TV Peru
-https://v3.playerlatino.live/stream/m3u8/306
-#EXTINF:0 tvg-id="ext" group-title="Peru",PERU: Willax TV
-https://v3.playerlatino.live/stream/m3u8/334
-
-#EXTINF:0 tvg-id="animal_rus" group-title="Cultura",Animal Planet
-https://v3.playerlatino.live/stream/m3u8/3
-#EXTINF:0 tvg-id="animal_rus" group-title="Cultura",Animal Planet OP2
-https://v3.playerlatino.live/stream/m3u8/633
-#EXTINF:0 tvg-id="discov_rus" group-title="Cultura",Discovery Channel
-https://v3.playerlatino.live/stream/m3u8/22
-#EXTINF:0 tvg-id="discov_rus" group-title="Cultura",Discovery Channel op2
-https://v3.playerlatino.live/stream/m3u8/639
-#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery Channel Sur
-https://v3.playerlatino.live/stream/m3u8/741
-#EXTINF:0 tvg-id="DiscoveryCivil.mx" group-title="Cultura",Discovery Civilization
-https://v3.playerlatino.live/stream/m3u8/23
-#EXTINF:0 tvg-id="HomeHealthHD.mx" group-title="Cultura",Discovery H&H
-https://v3.playerlatino.live/stream/m3u8/24
-#EXTINF:0 tvg-id="ext" group-title="Cultura",Discovery H&H Sur
-https://v3.playerlatino.live/stream/m3u8/742
-#EXTINF:0 tvg-id="DiscoverySci.mx" group-title="Cultura",Discovery SCI
-https://v3.playerlatino.live/stream/m3u8/26
-#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Cultura",Discovery Turbo
-https://v3.playerlatino.live/stream/m3u8/28
-#EXTINF:0 tvg-id="discov_turbo-extra" group-title="Cultura",Discovery World
-https://v3.playerlatino.live/stream/m3u8/187
-#EXTINF:0 tvg-id="history2-rus" group-title="Cultura",H2
-https://v3.playerlatino.live/stream/m3u8/61
-#EXTINF:0 tvg-id="ext" group-title="Cultura",H2 Sur
-https://v3.playerlatino.live/stream/m3u8/760
-#EXTINF:0 tvg-id="history-rus" group-title="Cultura",History Channel
-https://v3.playerlatino.live/stream/m3u8/67
-#EXTINF:0 tvg-id="id-extra" group-title="Cultura",Investigation Discovery
-https://v3.playerlatino.live/stream/m3u8/68
-#EXTINF:0 tvg-id="natgeo" group-title="Cultura",Nat Geo
-https://v3.playerlatino.live/stream/m3u8/76
-#EXTINF:0 tvg-id="natgeowild" group-title="Cultura",Nat Geo Wild
-https://v3.playerlatino.live/stream/m3u8/77
-
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Az Cinema
-https://v3.playerlatino.live/stream/m3u8/186
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine 2020
-https://v3.playerlatino.live/stream/m3u8/857
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Accion
-https://v3.playerlatino.live/stream/m3u8/699
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Accion Sagas
-https://v3.playerlatino.live/stream/m3u8/700
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Comedia 1
-https://v3.playerlatino.live/stream/m3u8/695
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Comedia 2
-https://v3.playerlatino.live/stream/m3u8/696
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Ficcion/Fantasia 1
-https://v3.playerlatino.live/stream/m3u8/709
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Ficcion/Fantasia 2
-https://v3.playerlatino.live/stream/m3u8/710
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Ficcion/Fantasia Sagas
-https://v3.playerlatino.live/stream/m3u8/711
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Infantil
-https://v3.playerlatino.live/stream/m3u8/687
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Infantil Sagas
-https://v3.playerlatino.live/stream/m3u8/694
-#EXTINF:0 tvg-id="CineLatino.mx" group-title="Peliculas",Cine Latino
-https://v3.playerlatino.live/stream/m3u8/295
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Marvel
-https://v3.playerlatino.live/stream/m3u8/697
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Romance
-https://v3.playerlatino.live/stream/m3u8/689
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Terror
-https://v3.playerlatino.live/stream/m3u8/693
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cine Zombis
-https://v3.playerlatino.live/stream/m3u8/688
-#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Peliculas",Cinecanal
-https://v3.playerlatino.live/stream/m3u8/18
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cinecanal Sur
-https://v3.playerlatino.live/stream/m3u8/738
-#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Peliculas",Cinemax
-https://v3.playerlatino.live/stream/m3u8/20
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Cinemax Sur
-https://v3.playerlatino.live/stream/m3u8/739
-#EXTINF:0 tvg-id="DePelicula.mx" group-title="Peliculas",De Película
-https://v3.playerlatino.live/stream/m3u8/21
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",DHE
-https://v3.playerlatino.live/stream/m3u8/844
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",FM Hot TV
-https://v3.playerlatino.live/stream/m3u8/731
-#EXTINF:0 tvg-id="FXMovie.us" group-title="Peliculas",FXM
-https://v3.playerlatino.live/stream/m3u8/43
-#EXTINF:0 tvg-id="Golden.mx" group-title="Peliculas",Golden
-https://v3.playerlatino.live/stream/m3u8/57
-#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Peliculas",Golden Edge
-https://v3.playerlatino.live/stream/m3u8/58
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Peliculas",HBO
-https://v3.playerlatino.live/stream/m3u8/62
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",HBO (EN)
-https://v3.playerlatino.live/stream/m3u8/723
-#EXTINF:0 tvg-id="HBO2.cz" group-title="Peliculas",HBO 2
-https://v3.playerlatino.live/stream/m3u8/300
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",HBO 2 (EN)
-https://v3.playerlatino.live/stream/m3u8/724
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="Peliculas",HBO Family
-https://v3.playerlatino.live/stream/m3u8/63
-#EXTINF:0 tvg-id="Hboplus.br" group-title="Peliculas",HBO Plus
-https://v3.playerlatino.live/stream/m3u8/64
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",HBO Plus (EN)
-https://v3.playerlatino.live/stream/m3u8/722
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Peliculas",HBO Xtreme
-https://v3.playerlatino.live/stream/m3u8/814
-#EXTINF:0 tvg-id="Maxprime.br" group-title="Peliculas",HBO Xtreme
-https://v3.playerlatino.live/stream/m3u8/841
-#EXTINF:0 tvg-id="ISat.mx" group-title="Peliculas",I.Sat
-https://v3.playerlatino.live/stream/m3u8/153
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Movie Max
-https://v3.playerlatino.live/stream/m3u8/678
-#EXTINF:0 tvg-id="Multipremier.mx" group-title="Peliculas",MultiPremier
-https://v3.playerlatino.live/stream/m3u8/294
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Peliculas",Paramount
-https://v3.playerlatino.live/stream/m3u8/200
-#EXTINF:0 tvg-id="Paramount.uk" group-title="Peliculas",Paramount op2
-https://v3.playerlatino.live/stream/m3u8/647
-#EXTINF:0 tvg-id="Showtime.no" group-title="Peliculas",Showtime
-https://v3.playerlatino.live/stream/m3u8/679
-#EXTINF:0 tvg-id="Space.br" group-title="Peliculas",Space
-https://v3.playerlatino.live/stream/m3u8/83
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Space Sur
-https://v3.playerlatino.live/stream/m3u8/751
-#EXTINF:0 tvg-id="star.gr" group-title="Peliculas",Star
-https://v3.playerlatino.live/stream/m3u8/46
-#EXTINF:0 tvg-id="star.gr" group-title="Peliculas",Star
-https://v3.playerlatino.live/stream/m3u8/47
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Star Classics
-https://v3.playerlatino.live/stream/m3u8/48
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Star Comedy
-https://v3.playerlatino.live/stream/m3u8/150
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Star Fun
-https://v3.playerlatino.live/stream/m3u8/49
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Star Hits
-https://v3.playerlatino.live/stream/m3u8/51
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",Star Hits Sur
-https://v3.playerlatino.live/stream/m3u8/747
-#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Peliculas",Starz Cinema
-https://v3.playerlatino.live/stream/m3u8/680
-#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Peliculas",Starz Comedy
-https://v3.playerlatino.live/stream/m3u8/681
-#EXTINF:0 tvg-id="StarzEncoreAction.us" group-title="Peliculas",Starz Encore Action
-https://v3.playerlatino.live/stream/m3u8/682
-#EXTINF:0 tvg-id="StarzEncoreBlack.us" group-title="Peliculas",Starz Encore Black
-https://v3.playerlatino.live/stream/m3u8/683
-#EXTINF:0 tvg-id="StarzEncoreFamily.us" group-title="Peliculas",Starz Encore Family
-https://v3.playerlatino.live/stream/m3u8/684
-#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Peliculas",Studio Universal
-https://v3.playerlatino.live/stream/m3u8/84
-#EXTINF:0 tvg-id="SCIFI.uk" group-title="Peliculas",SyFy
-https://v3.playerlatino.live/stream/m3u8/151
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",SyFy Sur
-https://v3.playerlatino.live/stream/m3u8/758
-#EXTINF:0 tvg-id="TCM.uk" group-title="Peliculas",TCM
-https://v3.playerlatino.live/stream/m3u8/85
-#EXTINF:0 tvg-id="tnt" group-title="Peliculas",TNT
-https://v3.playerlatino.live/stream/m3u8/179
-#EXTINF:0 tvg-id="ext" group-title="Peliculas",TNT Sur
-https://v3.playerlatino.live/stream/m3u8/752
-#EXTINF:0 tvg-id="Universal.uk" group-title="Peliculas",Universal
-https://v3.playerlatino.live/stream/m3u8/137
-
-#EXTINF:0 tvg-id="baby-tv" group-title="Infantiles",Baby TV
-https://v3.playerlatino.live/stream/m3u8/7
-#EXTINF:0 tvg-id="cartoon" group-title="Infantiles",Cartoon Network
-https://v3.playerlatino.live/stream/m3u8/17
-#EXTINF:0 tvg-id="ext" group-title="Infantiles",Cartoon Network Sur
-https://v3.playerlatino.live/stream/m3u8/737
-#EXTINF:0 tvg-id="ext" group-title="Infantiles",Cartoonito (Boomerang)
-https://v3.playerlatino.live/stream/m3u8/11
-#EXTINF:0 tvg-id="ext" group-title="Infantiles",Cartoonito Sur
-https://v3.playerlatino.live/stream/m3u8/735
-#EXTINF:0 tvg-id="CBeebies.uk" group-title="Infantiles",CBeebies
-https://v3.playerlatino.live/stream/m3u8/13
-#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Infantiles",Discovery Kids
-https://v3.playerlatino.live/stream/m3u8/25
-#EXTINF:0 tvg-id="disney" group-title="Infantiles",Disney Channel
-https://v3.playerlatino.live/stream/m3u8/29
-#EXTINF:0 tvg-id="DisneyJr.blt" group-title="Infantiles",Disney Junior
-https://v3.playerlatino.live/stream/m3u8/30
-#EXTINF:0 tvg-id="ext" group-title="Infantiles",Disney Junior Sur
-https://v3.playerlatino.live/stream/m3u8/743
-#EXTINF:0 tvg-id="disney-xd-blt" group-title="Infantiles",Disney XD
-https://v3.playerlatino.live/stream/m3u8/31
-#EXTINF:0 tvg-id="ext" group-title="Infantiles",Disney XD Sur
-https://v3.playerlatino.live/stream/m3u8/744
-#EXTINF:0 tvg-id="ext" group-title="Infantiles",Nat Geo Kids
-https://v3.playerlatino.live/stream/m3u8/412
-#EXTINF:0 tvg-id="nickelod" group-title="Infantiles",Nick
-https://v3.playerlatino.live/stream/m3u8/78
-#EXTINF:0 tvg-id="nickelod" group-title="Infantiles",Nick op2
-https://v3.playerlatino.live/stream/m3u8/645
-#EXTINF:0 tvg-id="nick-jr" group-title="Infantiles",Nick JR
-https://v3.playerlatino.live/stream/m3u8/79
-#EXTINF:0 tvg-id="nick-jr" group-title="Infantiles",Nick JR op2
-https://v3.playerlatino.live/stream/m3u8/829
-#EXTINF:0 tvg-id="Nicktoons.uk" group-title="Infantiles",Nick Toons
-https://v3.playerlatino.live/stream/m3u8/80
-#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Infantiles",Nickelodeon
-https://v3.playerlatino.live/stream/m3u8/184
-#EXTINF:0 tvg-id="TeenNick.mx" group-title="Infantiles",TeenNick
-https://v3.playerlatino.live/stream/m3u8/882
-#EXTINF:0 tvg-id="TIIN.mx" group-title="Infantiles",Tiin
-https://v3.playerlatino.live/stream/m3u8/93
-#EXTINF:0 tvg-id="Tooncast.mx" group-title="Infantiles",Tooncast
-https://v3.playerlatino.live/stream/m3u8/95
-
-#EXTINF:0 tvg-id="Bandamax.mx" group-title="Musica",Bandamax
-https://v3.playerlatino.live/stream/m3u8/8
-#EXTINF:0 tvg-id="CapitalTV.uk" group-title="Musica",Capital TV
-https://v3.playerlatino.live/stream/m3u8/205
-#EXTINF:0 tvg-id="ext" group-title="Musica",Djing Ibiza
-https://v3.playerlatino.live/stream/m3u8/277
-#EXTINF:0 tvg-id="H!TMusic.ro" group-title="Musica",Hit TV
-https://v3.playerlatino.live/stream/m3u8/201
-#EXTINF:0 tvg-id="HTV.mx" group-title="Musica",HTV
-https://v3.playerlatino.live/stream/m3u8/66
-#EXTINF:0 tvg-id="jctv" group-title="Musica",Juce TV
-https://v3.playerlatino.live/stream/m3u8/263
-#EXTINF:0 tvg-id="ext" group-title="Musica",m2o TV
-https://v3.playerlatino.live/stream/m3u8/203
-#EXTINF:0 tvg-id="mtvlive-hd" group-title="Musica",MTV Live
-https://v3.playerlatino.live/stream/m3u8/70
-#EXTINF:0 tvg-id="ext" group-title="Musica",Music Now
-https://v3.playerlatino.live/stream/m3u8/690
-#EXTINF:0 tvg-id="ext" group-title="Musica",MusicTop
-https://v3.playerlatino.live/stream/m3u8/691
-#EXTINF:0 tvg-id="RetroMusic.cz" group-title="Musica",Retro Music
-https://v3.playerlatino.live/stream/m3u8/692
-#EXTINF:0 tvg-id="RitmosonLatino.mx" group-title="Musica",Ritmoson Latino
-https://v3.playerlatino.live/stream/m3u8/154
-#EXTINF:0 tvg-id="Telehit.mx" group-title="Musica",Telehit
-https://v3.playerlatino.live/stream/m3u8/91
-#EXTINF:0 tvg-id="vh1-europe" group-title="Musica",VH1
-https://v3.playerlatino.live/stream/m3u8/101
-#EXTINF:0 tvg-id="muzikas_video" group-title="Musica",Video Rola
-https://v3.playerlatino.live/stream/m3u8/359
-#EXTINF:0 tvg-id="ext" group-title="Musica",Videos: 1Music
-https://v3.playerlatino.live/stream/m3u8/433
-#EXTINF:0 tvg-id="ext" group-title="Musica",Videos: Company Radio TV
-https://v3.playerlatino.live/stream/m3u8/435
-#EXTINF:0 tvg-id="ext" group-title="Musica",Videos: Dream TV
-https://v3.playerlatino.live/stream/m3u8/439
-#EXTINF:0 tvg-id="ext" group-title="Musica",Virgin TV
-https://v3.playerlatino.live/stream/m3u8/315
-
-#EXTINF:0 tvg-id="ext" group-title="Bolivia",Bolivision
-https://v3.playerlatino.live/stream/m3u8/783
-#EXTINF:0 tvg-id="rtp1.pt" group-title="Bolivia",RTP
-https://v3.playerlatino.live/stream/m3u8/781
-
-#EXTINF:0 tvg-id="ext" group-title="Nicaragua",Canal 2 Televicentro
-https://v3.playerlatino.live/stream/m3u8/211
-
-#EXTINF:0 tvg-id="ext" group-title="Honduras",Canal 5 Honduras
-https://v3.playerlatino.live/stream/m3u8/773
-#EXTINF:0 tvg-id="ext" group-title="Honduras",HCH
-https://v3.playerlatino.live/stream/m3u8/779
-
-#EXTINF:0 tvg-id="ext" group-title="Ecuador",Canal Del Futbol
-https://v3.playerlatino.live/stream/m3u8/892
-#EXTINF:0 tvg-id="ext" group-title="Ecuador",Ecuavisa
-https://v3.playerlatino.live/stream/m3u8/319
-#EXTINF:0 tvg-id="ext" group-title="Ecuador",Gamavision
-https://v3.playerlatino.live/stream/m3u8/891
-#EXTINF:0 tvg-id="ext" group-title="Ecuador",TeleAmazonas
-https://v3.playerlatino.live/stream/m3u8/320
-#EXTINF:0 tvg-id="ext" group-title="Ecuador",Televicentro
-https://v3.playerlatino.live/stream/m3u8/776
-
-#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Colombia",Caracol
-https://v3.playerlatino.live/stream/m3u8/391
-#EXTINF:0 tvg-id="ext" group-title="Colombia",CHV Chilevision
-https://v3.playerlatino.live/stream/m3u8/198
-#EXTINF:0 tvg-id="ext" group-title="Colombia",RCN
-https://v3.playerlatino.live/stream/m3u8/390
-#EXTINF:0 tvg-id="ext" group-title="Colombia",RCN Novelas
-https://v3.playerlatino.live/stream/m3u8/279
-#EXTINF:0 tvg-id="ext" group-title="Colombia",Telemedellin
-https://v3.playerlatino.live/stream/m3u8/197
-#EXTINF:0 tvg-id="Trece.es" group-title="Colombia",Trece
-https://v3.playerlatino.live/stream/m3u8/774
-#EXTINF:0 tvg-id="ext" group-title="Colombia",Uno
-https://v3.playerlatino.live/stream/m3u8/775
-
-#EXTINF:0 tvg-id="ext" group-title="Chile",CTNI
-https://v3.playerlatino.live/stream/m3u8/160
-#EXTINF:0 tvg-id="El13HD.ar" group-title="Chile",El Trece
-https://v3.playerlatino.live/stream/m3u8/765
-#EXTINF:0 tvg-id="mega" group-title="Chile",Mega
-https://v3.playerlatino.live/stream/m3u8/766
-#EXTINF:0 tvg-id="ext" group-title="Chile",VTV2 Chile
-https://v3.playerlatino.live/stream/m3u8/321
-
-#EXTINF:0 tvg-id="ext" group-title="Argentina",El 13 Argentina
-https://v3.playerlatino.live/stream/m3u8/239
-#EXTINF:0 tvg-id="Canal9.ar" group-title="Argentina",El Nueve
-https://v3.playerlatino.live/stream/m3u8/772
-#EXTINF:0 tvg-id="El13HD.ar" group-title="Argentina",El Trece
-https://v3.playerlatino.live/stream/m3u8/767
-#EXTINF:0 tvg-id="ext" group-title="Argentina",ORBE 21
-https://v3.playerlatino.live/stream/m3u8/242
-#EXTINF:0 tvg-id="Telefe.ar" group-title="Argentina",Telefe
-https://v3.playerlatino.live/stream/m3u8/771
-
-#EXTINF:0 tvg-id="ext" group-title="Religion",Enlace Juvenil
-https://v3.playerlatino.live/stream/m3u8/162
-#EXTINF:0 tvg-id="ext" group-title="Religion",Enlace TV
-https://v3.playerlatino.live/stream/m3u8/161
-#EXTINF:0 tvg-id="EWTN.uk" group-title="Religion",EWTN
-https://v3.playerlatino.live/stream/m3u8/38
-
-#EXTINF:0 tvg-id="ext" group-title="Uruguay",Latina TV
-https://v3.playerlatino.live/stream/m3u8/782
-#EXTINF:0 tvg-id="ext" group-title="Uruguay",Tele
-https://v3.playerlatino.live/stream/m3u8/778
-#EXTINF:0 tvg-id="ext" group-title="Uruguay",VTV Uruaguay
-https://v3.playerlatino.live/stream/m3u8/708
-
-#EXTINF:0 tvg-id="mega" group-title="Puerto Rico",Mega
-https://v3.playerlatino.live/stream/m3u8/784
-#EXTINF:0 tvg-id="ext" group-title="Puerto Rico",Wapa PR
-https://v3.playerlatino.live/stream/m3u8/327
-
-#EXTINF:0 tvg-id="ext" group-title="HD",Win Sports +
-https://v3.playerlatino.live/stream/m3u8/881
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 AFV Family En Español
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Angry Birds Toons
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=823
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Anime
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Cut The Rope
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=34
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Dragon Ball
+https://m3ukodi.com/developer/ok-ru/ok-ru.php?https://ok.ru/video/5673784450631&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Dream Corp LLC (En)
+http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 El Chavo del 8
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 El Oso Benard
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Los Simpson
+https://m3ukodi.com/developer/twich/twich.php?canal=fileld019&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Metalocalypse (En)
+http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Mr. Pickles (En)
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Pokemon M
+https://m3ukodi.com/iptv/247.php?pokemon
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 RetroPlusTV
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Rick and Morty (En)
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Teletubies
+https://dhx-teletubbies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 The Eric Andre Show (En)
+http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 TikTok Channel
+http://srv2.zcast.com.br/tiktok/tiktok/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Tim and Eric (En)
+http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",24/7 Williams Stream (En)
+http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Lista 32",paypal.com/paypalme/m3ukodi
+https://m3ukodi.com/images/dona.mp4
+#EXTINF:0 tvg-id="Vamos.es" group-title="Lista 32",#VAMOS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2654
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",------PREMIUM
+http://127.0.0.2
+#EXTINF:0 tvg-id="AyE.mx" group-title="Lista 32",A&E HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2628
+#EXTINF:0 tvg-id="AyE.mx" group-title="Lista 32",A&E
+https://m3ukodi.com/developer/cineapp/cineapp.php?2629
+#EXTINF:0 tvg-id="A+.civ" group-title="Lista 32",A+
+https://m3ukodi.com/developer/cineapp/cineapp.php?2549
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",A3 SERIES
+https://m3ukodi.com/developer/cineapp/cineapp.php?2548
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ADN 40
+https://m3ukodi.com/developer/cineapp/cineapp.php?2547
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",AFIZZIONADOS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2468
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",AMC :ES
+https://m3ukodi.com/developer/cineapp/cineapp.php?2626
+#EXTINF:0 tvg-id="AMC.uk" group-title="Lista 32",AMC HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2625
+#EXTINF:0 tvg-id="mgm-int" group-title="Lista 32",AMC
+https://m3ukodi.com/developer/cineapp/cineapp.php?2627
+#EXTINF:0 tvg-id="America2.ar" group-title="Lista 32",AMÉRICA TV
+https://m3ukodi.com/developer/cineapp/cineapp.php?2546
+#EXTINF:0 tvg-id="Antena3.ro" group-title="Lista 32",ANTENA 3
+https://m3ukodi.com/developer/cineapp/cineapp.php?2545
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",AXN :ES
+https://m3ukodi.com/developer/cineapp/cineapp.php?2623
+#EXTINF:0 tvg-id="AXN.it" group-title="Lista 32",AXN HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2622
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",AXN WHITE :ES
+https://m3ukodi.com/developer/cineapp/cineapp.php?2621
+#EXTINF:0 tvg-id="AXN.bg" group-title="Lista 32",AXN
+https://m3ukodi.com/developer/cineapp/cineapp.php?2624
+#EXTINF:0 tvg-id="AyMSports.mx" group-title="Lista 32",AYM SPORTS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2467
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",AZ CINEMA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2544
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",AZ CLICK
+https://m3ukodi.com/developer/cineapp/cineapp.php?2543
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Lista 32",AZ CORAZÓN HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2541
+#EXTINF:0 tvg-id="AZCorazon.cl" group-title="Lista 32",AZ CORAZÓN
+https://m3ukodi.com/developer/cineapp/cineapp.php?2542
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",AZTECA 1 HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2539
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",AZTECA 1
+https://m3ukodi.com/developer/cineapp/cineapp.php?2540
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista 32",AZTECA 7 HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2537
+#EXTINF:0 tvg-id="Azteca7.mx" group-title="Lista 32",AZTECA 7
+https://m3ukodi.com/developer/cineapp/cineapp.php?2538
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",BEIN HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2466
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Lista 32",BEIN SPORTS HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2464
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="Lista 32",BEIN SPORTS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2465
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Lista 32",BEIN SPORTS Ñ HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2462
+#EXTINF:0 tvg-id="beINSPORTSenespanol467.us" group-title="Lista 32",BEIN SPORTS Ñ
+https://m3ukodi.com/developer/cineapp/cineapp.php?2463
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",BOLIVISION
+https://m3ukodi.com/developer/cineapp/cineapp.php?2536
+#EXTINF:0 tvg-id="bloomberg" group-title="Lista 32",Bloomberg
+http://190.171.101.36/Bloomberg/index.m3u8?null=0
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Lista 32",CANAL + ACCIÓN
+https://m3ukodi.com/developer/cineapp/cineapp.php?2531
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",CANAL + TOROS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2460
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",CANAL 5 HONDURAS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2534
+#EXTINF:0 tvg-id="Canal5.mx" group-title="Lista 32",CANAL 5
+https://m3ukodi.com/developer/cineapp/cineapp.php?2535
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",CARACOL (COL)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2530
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Lista 32",CARACOL
+https://m3ukodi.com/developer/cineapp/cineapp.php?2529
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",CDF PREMIUM HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2458
+#EXTINF:0 tvg-id="CDFPremium.cl" group-title="Lista 32",CDF PREMIUM
+https://m3ukodi.com/developer/cineapp/cineapp.php?2459
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",CDN SPORTSMAX
+https://m3ukodi.com/developer/cineapp/cineapp.php?2457
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",CDO PREMIUM
+https://m3ukodi.com/developer/cineapp/cineapp.php?2456
+#EXTINF:0 tvg-id="CinecanalHD.mx" group-title="Lista 32",CINECANAL HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2619
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista 32",CINECANAL
+https://m3ukodi.com/developer/cineapp/cineapp.php?2620
+#EXTINF:0 tvg-id="CineMAX.ro" group-title="Lista 32",CINEMAX HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2617
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista 32",CINEMAX
+https://m3ukodi.com/developer/cineapp/cineapp.php?2618
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Lista 32",CLARO SPORTS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2455
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Lista 32",CNN ESPAÑOL
+https://m3ukodi.com/developer/cineapp/cineapp.php?2528
+#EXTINF:0 tvg-id="cnn" group-title="Lista 32",CNN
+http://190.171.101.36/CNN/index.m3u8?null=0
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Lista 32",COMEDY CENTRAL HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2525
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Lista 32",COMEDY CENTRAL HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2526
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Lista 32",COMEDY CENTRAL
+https://m3ukodi.com/developer/cineapp/cineapp.php?2527
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",CULIACAN
+https://5ca3e84a76d30.streamlock.net:443/gpacifico1/smil:gpculiacan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Canela TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=739
+#EXTINF:0 tvg-id="CaracolColombia.cl" group-title="Lista 32",Caracol
+http://mdstrm.com:80/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Lista 32",Cartoon Network
+https://m3ukodi.com/developer/twich/twich.php?canal=111kkctoon&f=.m3u8
+#EXTINF:0 tvg-id="Cartoonito.uk" group-title="Lista 32",Cartoonito
+https://m3ukodi.com/developer/ok-ru/ok-ru.php?https://ok.ru/videoembed/4123310628395&f=.m3u8
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Lista 32",Cinecanal
+http://190.171.101.36/Cinecanal/index.m3u8?null=0
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Lista 32",Cinemax
+https://m3ukodi.com/developer/twich/twich.php?canal=cc_x2t3x&f=.m3u8
+#EXTINF:0 tvg-id="DePeliculaHD.mx" group-title="Lista 32",DE PELÍCULA HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2615
+#EXTINF:0 tvg-id="DePelicula.mx" group-title="Lista 32",DE PELÍCULA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2616
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",DHE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2524
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",DIRECTV SPORTS 2
+https://m3ukodi.com/developer/cineapp/cineapp.php?2453
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",DIRECTV SPORTS PERÚ
+https://m3ukodi.com/developer/cineapp/cineapp.php?2452
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",DIRECTV SPORTS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2454
+#EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Lista 32",DISTRITO COMEDIA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2523
+#EXTINF:0 tvg-id="disney" group-title="Lista 32",Disney channel
+https://m3ukodi.com/developer/twich/twich.php?canal=dk_0150&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ECUAVISA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2522
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",EL CANAL DEL FÚTBOL
+https://m3ukodi.com/developer/cineapp/cineapp.php?2461
+#EXTINF:0 tvg-id="ElGourmet.mx" group-title="Lista 32",EL GOURMET
+https://m3ukodi.com/developer/cineapp/cineapp.php?2520
+#EXTINF:0 tvg-id="Canal9.ar" group-title="Lista 32",EL NUEVE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2519
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",EL TRECE ARGENTINA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2521
+#EXTINF:0 tvg-id="El13HD.ar" group-title="Lista 32",EL TRECE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2517
+#EXTINF:0 tvg-id="El13HD.ar" group-title="Lista 32",EL TRECE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2518
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Lista 32",ESPN 2 HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2449
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ESPN 2 MX
+https://m3ukodi.com/developer/cineapp/cineapp.php?2448
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Lista 32",ESPN 2
+https://m3ukodi.com/developer/cineapp/cineapp.php?2450
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Lista 32",ESPN 3 HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2447
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ESPN CHILE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2446
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Lista 32",ESPN HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2445
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ESPN MX
+https://m3ukodi.com/developer/cineapp/cineapp.php?2444
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ESPN PLUS HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2442
+#EXTINF:0 tvg-id="ESPN3.br" group-title="Lista 32",ESPN PLUS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2443
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Lista 32",ESPN
+https://m3ukodi.com/developer/cineapp/cineapp.php?2451
+#EXTINF:0 tvg-id="EstrellaTV.us" group-title="Lista 32",ESTRELLA TV
+https://m3ukodi.com/developer/cineapp/cineapp.php?2516
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",EuroMovies 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=868
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ExtremaTV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",F1 TV
+https://m3ukodi.com/developer/cineapp/cineapp.php?2441
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",FILMS & ARTS HD (EN)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2515
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",FOX SPORTS 2 HD ARGENTINA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2438
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Lista 32",FOX SPORTS 2 HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2437
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 32",FOX SPORTS 2 MX
+https://m3ukodi.com/developer/cineapp/cineapp.php?2436
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Lista 32",FOX SPORTS 2
+https://m3ukodi.com/developer/cineapp/cineapp.php?2439
+#EXTINF:0 tvg-id="FoxSports3HD.cl" group-title="Lista 32",FOX SPORTS 3 HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2434
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Lista 32",FOX SPORTS 3
+https://m3ukodi.com/developer/cineapp/cineapp.php?2435
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",FOX SPORTS HD ARGENTINA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2433
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Lista 32",FOX SPORTS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2440
+#EXTINF:0 tvg-id="FXHD.mx" group-title="Lista 32",FX HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2613
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",FXM HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2611
+#EXTINF:0 tvg-id="FXMovie.us" group-title="Lista 32",FXM
+https://m3ukodi.com/developer/cineapp/cineapp.php?2612
+#EXTINF:0 tvg-id="FX.uk" group-title="Lista 32",FX
+https://m3ukodi.com/developer/cineapp/cineapp.php?2614
+#EXTINF:0 tvg-id="GalaTV.mx" group-title="Lista 32",GALA TV HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2513
+#EXTINF:0 tvg-id="GalaTV.mx" group-title="Lista 32",GALA TV
+https://m3ukodi.com/developer/cineapp/cineapp.php?2514
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",GAMAVISIÓN
+https://m3ukodi.com/developer/cineapp/cineapp.php?2512
+#EXTINF:0 tvg-id="Glitz.mx" group-title="Lista 32",GLITZ
+https://m3ukodi.com/developer/cineapp/cineapp.php?2511
+#EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Lista 32",GOLDEN EDGE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2609
+#EXTINF:0 tvg-id="GoldenHD.mx" group-title="Lista 32",GOLDEN HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2608
+#EXTINF:0 tvg-id="Golden.mx" group-title="Lista 32",GOLDEN
+https://m3ukodi.com/developer/cineapp/cineapp.php?2610
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",HBO (EN)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2606
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",HBO 2 (EN)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2602
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",HBO 2 (EN)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2604
+#EXTINF:0 tvg-id="HBO2.pl" group-title="Lista 32",HBO 2 HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2603
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Lista 32",HBO 2
+https://m3ukodi.com/developer/cineapp/cineapp.php?2605
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Lista 32",HBO FAMILY
+https://m3ukodi.com/developer/cineapp/cineapp.php?2601
+#EXTINF:0 tvg-id="HBO.hu" group-title="Lista 32",HBO HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2600
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",HBO PLUS (EN)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2598
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",HBO PLUS HD OESTE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2596
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Lista 32",HBO PLUS HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2597
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Lista 32",HBO PLUS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2599
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",HBO XTREME 2
+https://m3ukodi.com/developer/cineapp/cineapp.php?2594
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Lista 32",HBO XTREME
+https://m3ukodi.com/developer/cineapp/cineapp.php?2595
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Lista 32",HBO
+http://190.171.101.36/HBO/index.m3u8?null=0
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Lista 32",HBO
+https://m3ukodi.com/developer/cineapp/cineapp.php?2607
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",HCH
+https://m3ukodi.com/developer/cineapp/cineapp.php?2510
+#EXTINF:0 tvg-id="HolaTV.us" group-title="Lista 32",HOLA TV
+https://m3ukodi.com/developer/cineapp/cineapp.php?2509
+#EXTINF:0 tvg-id="ISat.mx" group-title="Lista 32",I.SAT
+https://m3ukodi.com/developer/cineapp/cineapp.php?2508
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",IMAGEN TV HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2506
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",IMAGEN TV
+https://m3ukodi.com/developer/cineapp/cineapp.php?2507
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",LAS ESTRELLAS HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2532
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",LAS ESTRELLAS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2533
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",LATINA TV
+https://m3ukodi.com/developer/cineapp/cineapp.php?2505
+#EXTINF:0 tvg-id="Lifetime.br" group-title="Lista 32",LIFE TIME
+https://m3ukodi.com/developer/cineapp/cineapp.php?2504
+#EXTINF:0 tvg-id="Maschic.mx" group-title="Lista 32",MAS CHIC
+https://m3ukodi.com/developer/cineapp/cineapp.php?2503
+#EXTINF:0 tvg-id="MaxPrimeHD.ar" group-title="Lista 32",MAX PRIME HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2593
+#EXTINF:0 tvg-id="Maxup.br" group-title="Lista 32",MAX UP HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2592
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",MAZATLAN
+https://5ca3e84a76d30.streamlock.net:443/gpacifico4/smil:mazatlan.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",MEGA (ES)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2500
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",MEGA CINE HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2591
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",MEGA MUNDIAL
+https://59514edd5dd8e.streamlock.net/lamegamundial/lamegamundial2/chunklist_w1262991099.m3u8
+#EXTINF:0 tvg-id="mega" group-title="Lista 32",MEGA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2501
+#EXTINF:0 tvg-id="mega" group-title="Lista 32",MEGA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2502
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",MOCHIS
+https://5ca3e84a76d30.streamlock.net:443/gpacifico2/smil:mochis.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",MOVIE MAX
+https://m3ukodi.com/developer/cineapp/cineapp.php?2590
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="Lista 32",MOVISTAR COMEDIA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2499
+#EXTINF:0 tvg-id="mtv-rus" group-title="Lista 32",MTV
+http://190.171.101.36/MTV/index.m3u8?null=0
+#EXTINF:0 tvg-id="MultimediosMonterrey.mx" group-title="Lista 32",MULTIMEDIOS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2498
+#EXTINF:0 tvg-id="Multipremier.mx" group-title="Lista 32",MULTIPREMIER
+https://m3ukodi.com/developer/cineapp/cineapp.php?2497
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Mosaico Deportes
+https://d2x688xcrrjspd.cloudfront.net/out/v1/0588d261b972443d850d7343e75a763d/deportes.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Mosaico HBO
+https://dwupwmhnd5p0c.cloudfront.net/out/v1/8932c386929845d1b627af64e9d3e0aa/mhbo.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Mosaico Información
+https://d1hacfkxse5lx7.cloudfront.net/out/v1/913093bdf54743ceb561692caeab7e4e/informacion.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Mosaico Kids
+https://d12bww9t7e6mtv.cloudfront.net/out/v1/ec80106d36e44980a295c5fc10c133c2/ninos.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Mosaico Peliculas
+https://d23krjoz8267fm.cloudfront.net/out/v1/2ea9d7594d1a4e6ea9fe18089bfc4cec/peliculas.mpd
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Mosaico Star
+https://d3mspciwfw6hm0.cloudfront.net/out/v1/edccab1d5fd94afe8da020e20efcfa33/mfox.mpd
+#EXTINF:0 tvg-id="Neox.es" group-title="Lista 32",NEOX (ES)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2496
+#EXTINF:0 tvg-id="Nova.es" group-title="Lista 32",NOVA (ES)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2495
+#EXTINF:0 tvg-id="nickelod" group-title="Lista 32",Nick
+https://m3ukodi.com/developer/twich/twich.php?canal=teen013&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",PARAMOUMT HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2588
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",PARAMOUMT
+https://m3ukodi.com/developer/cineapp/cineapp.php?2589
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",PASIONES HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2494
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",PERÚ LATINA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2493
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",RCN (COL)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2492
+#EXTINF:0 tvg-id="rtp1.pt" group-title="Lista 32",RTP
+https://m3ukodi.com/developer/cineapp/cineapp.php?2491
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Rakuten-Acción TV
+https://fa4510bdf89943b6b69ee3f6ce56da96.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenActionMovies/playlist.m3u8?ads.wurl_channel%3D427%26ads.wurl_name%3DRakutenActionMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Rakuten-Comedias TV
+https://b1e945c80353459a8dca16651625ad2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel%3D428%26ads.wurl_name%3DRakutenComedyMovies%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Rakuten-Dramas TV
+https://3F3oDS265pBZ6TE91MsDaQghfjACgBGUCk.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenTVShows/playlist.m3u8?ads.wurl_channel%3D429%26ads.wurl_name%3DRakutenTVShows%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Rakuten-Familiares  TV
+https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenFamily/playlist.m3u8?ads.wurl_channel%3D718%26ads.wurl_name%3DRakutenFamily%26ads.coppa%3D1%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Rakuten- Stories
+https://bbfb189d0b5442118b9541714950d36c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_RakutenSpotlight/playlist.m3u8?ads.wurl_channel%3D430%26ads.wurl_name%3DRakutenSpotlight%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D0%26ads.consent%3D%7BTC_STRING%7D
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Revry LGBTQ Channel Español
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=764
+#EXTINF:0 tvg-id="Showtime.no" group-title="Lista 32",SHOWTIME
+https://m3ukodi.com/developer/cineapp/cineapp.php?2490
+#EXTINF:0 tvg-id="set" group-title="Lista 32",SONY HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2586
+#EXTINF:0 tvg-id="set" group-title="Lista 32",SONY
+https://m3ukodi.com/developer/cineapp/cineapp.php?2587
+#EXTINF:0 tvg-id="SpaceHD.mx" group-title="Lista 32",SPACE HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2584
+#EXTINF:0 tvg-id="Space.br" group-title="Lista 32",SPACE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2585
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR ACTION HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2581
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR ACTION
+https://m3ukodi.com/developer/cineapp/cineapp.php?2582
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR CHANEL HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2576
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR CHANEL
+https://m3ukodi.com/developer/cineapp/cineapp.php?2583
+#EXTINF:0 tvg-id="star-cinema" group-title="Lista 32",STAR CINEMA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2580
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR CLASICS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2579
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR FUN HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2577
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR FUN
+https://m3ukodi.com/developer/cineapp/cineapp.php?2578
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR HITS HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2574
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR HITS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2575
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR LIFE HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2572
+#EXTINF:0 tvg-id="StarOne.uk" group-title="Lista 32",STAR LIFE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2573
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR SERIES HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2570
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",STAR SERIES
+https://m3ukodi.com/developer/cineapp/cineapp.php?2571
+#EXTINF:0 tvg-id="StarzCinemaHD.us" group-title="Lista 32",STARZ CINEMA
+https://m3ukodi.com/developer/cineapp/cineapp.php?2569
+#EXTINF:0 tvg-id="StarzComedyHD.us" group-title="Lista 32",STARZ COMEDY
+https://m3ukodi.com/developer/cineapp/cineapp.php?2568
+#EXTINF:0 tvg-id="StarzEncoreAction.us" group-title="Lista 32",STARZ ENCORE ACTION
+https://m3ukodi.com/developer/cineapp/cineapp.php?2567
+#EXTINF:0 tvg-id="StarzEncoreBlack.us" group-title="Lista 32",STARZ ENCORE BLACK
+https://m3ukodi.com/developer/cineapp/cineapp.php?2566
+#EXTINF:0 tvg-id="StarzEncoreFamily.us" group-title="Lista 32",STARZ ENCORE FAMILY
+https://m3ukodi.com/developer/cineapp/cineapp.php?2565
+#EXTINF:0 tvg-id="StarzEast.us" group-title="Lista 32",STARZ HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2564
+#EXTINF:0 tvg-id="StudioUniversalHD.cl" group-title="Lista 32",STUDIO UNIVERSAL HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2562
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Lista 32",STUDIO UNIVERSAL
+https://m3ukodi.com/developer/cineapp/cineapp.php?2563
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Lista 32",SYFY HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2560
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Lista 32",SYFY
+https://m3ukodi.com/developer/cineapp/cineapp.php?2561
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TBS VERY FUNNY HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2558
+#EXTINF:0 tvg-id="TBS.mx" group-title="Lista 32",TBS VERY FUNNY
+https://m3ukodi.com/developer/cineapp/cineapp.php?2559
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TC ECUADOR
+https://m3ukodi.com/developer/cineapp/cineapp.php?2489
+#EXTINF:0 tvg-id="TCM.uk" group-title="Lista 32",TCM
+https://m3ukodi.com/developer/cineapp/cineapp.php?2488
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TELEAMAZONAS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2486
+#EXTINF:0 tvg-id="Telefe.ar" group-title="Lista 32",TELEFE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2485
+#EXTINF:0 tvg-id="TelemundoEast.us" group-title="Lista 32",TELEMUNDO HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2483
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Lista 32",TELEMUNDO
+https://m3ukodi.com/developer/cineapp/cineapp.php?2484
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TELEVICENTRO
+https://m3ukodi.com/developer/cineapp/cineapp.php?2482
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TELE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2487
+#EXTINF:0 tvg-id="tlc-russia" group-title="Lista 32",TLC
+http://190.171.101.36/TLC/index.m3u8?null=0
+#EXTINF:0 tvg-id="tlc-russia" group-title="Lista 32",TLC
+https://m3ukodi.com/developer/cineapp/cineapp.php?2481
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TL NOVELAS HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2479
+#EXTINF:0 tvg-id="TLNovelas.pe" group-title="Lista 32",TL NOVELAS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2480
+#EXTINF:0 tvg-id="TNT.es" group-title="Lista 32",TNT (ES)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2556
+#EXTINF:0 tvg-id="tnt" group-title="Lista 32",TNT HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2555
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista 32",TNT SERIES HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2553
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Lista 32",TNT SERIES
+https://m3ukodi.com/developer/cineapp/cineapp.php?2554
+#EXTINF:0 tvg-id="tnt" group-title="Lista 32",TNT
+https://m3ukodi.com/developer/cineapp/cineapp.php?2557
+#EXTINF:0 tvg-id="Trece.es" group-title="Lista 32",TRECE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2478
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Lista 32",TRU TV HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2476
+#EXTINF:0 tvg-id="TruTV.uk" group-title="Lista 32",TRU TV
+https://m3ukodi.com/developer/cineapp/cineapp.php?2477
+#EXTINF:0 tvg-id="tv5" group-title="Lista 32",TV5
+http://190.171.101.36/TV5/index.m3u8?null=0
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TV Azteca Honduras
+http://190.122.96.187:8888/http/002
+#EXTINF:0 tvg-id="TVE.se" group-title="Lista 32",TVE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2475
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TasteMade Mexico
+https://tastemadees16intl-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista 32",UNICABLE HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2473
+#EXTINF:0 tvg-id="Unicable.mx" group-title="Lista 32",UNICABLE
+https://m3ukodi.com/developer/cineapp/cineapp.php?2474
+#EXTINF:0 tvg-id="Universal.uk" group-title="Lista 32",UNIVERSAL HD
+https://m3ukodi.com/developer/cineapp/cineapp.php?2551
+#EXTINF:0 tvg-id="Universal.uk" group-title="Lista 32",UNIVERSAL
+https://m3ukodi.com/developer/cineapp/cineapp.php?2552
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",UNIVISIÓN TL NOVELAS
+https://m3ukodi.com/developer/cineapp/cineapp.php?2471
+#EXTINF:0 tvg-id="UnivisionEast.us" group-title="Lista 32",UNIVISIÓN
+https://m3ukodi.com/developer/cineapp/cineapp.php?2472
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",UNO
+https://m3ukodi.com/developer/cineapp/cineapp.php?2470
+#EXTINF:0 tvg-id="Universal.uk" group-title="Lista 32",Universal
+http://190.171.101.36/Universal/index.m3u8?null=0
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",Ve Plus
+http://190.122.96.187:8888/http/006
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",WAPA (PR)
+https://m3ukodi.com/developer/cineapp/cineapp.php?2469
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",WARNER CHANEL HD.
+https://m3ukodi.com/developer/cineapp/cineapp.php?2633
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",WARNER CHANEL
+https://m3ukodi.com/developer/cineapp/cineapp.php?2550
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Lista 32",Warner
+http://190.171.101.36/Warner/index.m3u8?null=0
+#EXTINF:0 tvg-id="avi" group-title="Lista 32",paypal.com/paypalme/m3ukodi
+https://m3ukodi.com/images/dona.mp4
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",------Deportes Y Eventos
+http://127.0.0.9
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",AXS-TV FIGHTS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=857
+#EXTINF:0 tvg-id="AXSTV.us" group-title="Lista 32",AXS TV
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",BILLAR TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=874
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",CAGE WARRIORS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=804
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",CAR HISTORY
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
+#EXTINF:0 tvg-id="DDSports.in" group-title="Lista 32",DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",DIRECT TV SPORT
+http://190.210.221.119:80/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",DUBAI RACING 2
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",DUBAI SPORTS 2
+http://dmiftvll.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",DUBAI SPORTS 3
+http://dmiftvll.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",EDGE SPORT (EN)
+http://jazzweisz.jw.lt/iptv/Edgesport
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",EDGE SPORT 2 (EN)
+http://edgesport-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="EdgeSport.nl" group-title="Lista 32",EDGE SPORT
+https://edgesports-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ESPN MEXICO
+http://190.210.221.119/Processor3_8_chunklist_b1300000.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Lista 32",ESPN
+http://190.210.221.119/Processor3_11_chunklist_b1300000.m3u8
+#EXTINF:0 tvg-id="esp" group-title="Lista 32",EUROSPORT
+http://541c65f4.skalkak.ru/iptv/F59PSHBG3R9H52/228/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",EX + SPORT
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=795
+#EXTINF:0 tvg-id="FoxSports.it" group-title="Lista 32",FOX SPORT
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",FTF FOR THE FANS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=843
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",LIGA MEXICANA
+https://linear-193.frequency.stream/193/hls/master/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",NWCT 12
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",ONE GOLF TV
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",SPORT SGRID
+https://sportsgrid-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-sportsgrid-plex/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TENIS CHANNEL
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TNA IMPACT WRESTLING
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=855
+#EXTINF:0 tvg-id="ext" group-title="Lista 32",TNT SPORT 2
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
 
