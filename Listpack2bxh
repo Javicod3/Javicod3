@@ -1,401 +1,79 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",EVENTOS DEPORTIVOS|SERIES LATIN
-https://m3ukodi.com/developer/cineapp/cineapp.php?2809
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",EVENTOS DEPORTIVOS|WIN SPORTS PLUS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2799
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",EVENTOS DEPORTIVOS|TV PREMIUM
-https://m3ukodi.com/developer/cineapp/cineapp.php?2760
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #1|CLARO SPORTS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2755
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #3|FéNIX VS DEFENSOR SPORTING
-https://m3ukodi.com/developer/cineapp/cineapp.php?2752
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #2|VTV PLUS HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2751
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|#VAMOS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2654
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|WARNER CHANEL HD.
-https://m3ukodi.com/developer/cineapp/cineapp.php?2633
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|A&E
-https://m3ukodi.com/developer/cineapp/cineapp.php?2629
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|A&E HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2628
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|AMC
-https://m3ukodi.com/developer/cineapp/cineapp.php?2627
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|AMC :ES
-https://m3ukodi.com/developer/cineapp/cineapp.php?2626
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|AMC HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2625
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|AXN
-https://m3ukodi.com/developer/cineapp/cineapp.php?2624
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|AXN :ES
-https://m3ukodi.com/developer/cineapp/cineapp.php?2623
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|AXN HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2622
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|AXN WHITE :ES
-https://m3ukodi.com/developer/cineapp/cineapp.php?2621
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|CINECANAL
-https://m3ukodi.com/developer/cineapp/cineapp.php?2620
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|CINECANAL HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2619
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|CINEMAX
-https://m3ukodi.com/developer/cineapp/cineapp.php?2618
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|CINEMAX HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2617
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|DE PELÍCULA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2616
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|DE PELÍCULA HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2615
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|FX
-https://m3ukodi.com/developer/cineapp/cineapp.php?2614
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|FX HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2613
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|FXM
-https://m3ukodi.com/developer/cineapp/cineapp.php?2612
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|FXM HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2611
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|GOLDEN
-https://m3ukodi.com/developer/cineapp/cineapp.php?2610
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|GOLDEN EDGE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2609
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|GOLDEN HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2608
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO
-https://m3ukodi.com/developer/cineapp/cineapp.php?2607
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO (EN)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2606
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO 2
-https://m3ukodi.com/developer/cineapp/cineapp.php?2605
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO 2 (EN)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2604
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO 2 HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2603
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO 2 (EN)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2602
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO FAMILY
-https://m3ukodi.com/developer/cineapp/cineapp.php?2601
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2600
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO PLUS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2599
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO PLUS (EN)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2598
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO PLUS HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2597
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO PLUS HD OESTE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2596
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO XTREME
-https://m3ukodi.com/developer/cineapp/cineapp.php?2595
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|HBO XTREME 2
-https://m3ukodi.com/developer/cineapp/cineapp.php?2594
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|MAX PRIME HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2593
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|MAX UP HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2592
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|MEGA CINE HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2591
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|MOVIE MAX
-https://m3ukodi.com/developer/cineapp/cineapp.php?2590
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|PARAMOUMT
-https://m3ukodi.com/developer/cineapp/cineapp.php?2589
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|PARAMOUMT HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2588
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|SONY
-https://m3ukodi.com/developer/cineapp/cineapp.php?2587
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|SONY HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2586
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|SPACE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2585
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|SPACE HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2584
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR CHANEL
-https://m3ukodi.com/developer/cineapp/cineapp.php?2583
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR ACTION
-https://m3ukodi.com/developer/cineapp/cineapp.php?2582
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR ACTION HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2581
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR CINEMA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2580
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR CLASICS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2579
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR FUN
-https://m3ukodi.com/developer/cineapp/cineapp.php?2578
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR FUN HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2577
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR CHANEL HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2576
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR HITS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2575
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR HITS HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2574
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR LIFE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2573
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR LIFE HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2572
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR SERIES
-https://m3ukodi.com/developer/cineapp/cineapp.php?2571
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STAR SERIES HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2570
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STARZ CINEMA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2569
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STARZ COMEDY
-https://m3ukodi.com/developer/cineapp/cineapp.php?2568
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STARZ ENCORE ACTION
-https://m3ukodi.com/developer/cineapp/cineapp.php?2567
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STARZ ENCORE BLACK
-https://m3ukodi.com/developer/cineapp/cineapp.php?2566
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STARZ ENCORE FAMILY
-https://m3ukodi.com/developer/cineapp/cineapp.php?2565
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STARZ HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2564
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STUDIO UNIVERSAL
-https://m3ukodi.com/developer/cineapp/cineapp.php?2563
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|STUDIO UNIVERSAL HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2562
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|SYFY
-https://m3ukodi.com/developer/cineapp/cineapp.php?2561
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|SYFY HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2560
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|TBS VERY FUNNY
-https://m3ukodi.com/developer/cineapp/cineapp.php?2559
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|TBS VERY FUNNY HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2558
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|TNT
-https://m3ukodi.com/developer/cineapp/cineapp.php?2557
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|TNT (ES)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2556
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|TNT HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2555
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|TNT SERIES
-https://m3ukodi.com/developer/cineapp/cineapp.php?2554
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|TNT SERIES HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2553
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|UNIVERSAL
-https://m3ukodi.com/developer/cineapp/cineapp.php?2552
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|UNIVERSAL HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2551
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",PREMIUM #4|WARNER CHANEL
-https://m3ukodi.com/developer/cineapp/cineapp.php?2550
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|A+
-https://m3ukodi.com/developer/cineapp/cineapp.php?2549
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|A3 SERIES
-https://m3ukodi.com/developer/cineapp/cineapp.php?2548
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|ADN 40
-https://m3ukodi.com/developer/cineapp/cineapp.php?2547
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|AMÉRICA TV
-https://m3ukodi.com/developer/cineapp/cineapp.php?2546
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|ANTENA 3
-https://m3ukodi.com/developer/cineapp/cineapp.php?2545
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|AZ CINEMA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2544
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|AZ CLICK
-https://m3ukodi.com/developer/cineapp/cineapp.php?2543
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|AZ CORAZÓN
-https://m3ukodi.com/developer/cineapp/cineapp.php?2542
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|AZ CORAZÓN HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2541
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|AZTECA 1
-https://m3ukodi.com/developer/cineapp/cineapp.php?2540
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|AZTECA 1 HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2539
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|AZTECA 7
-https://m3ukodi.com/developer/cineapp/cineapp.php?2538
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|AZTECA 7 HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2537
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|BOLIVISION
-https://m3ukodi.com/developer/cineapp/cineapp.php?2536
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|CANAL 5
-https://m3ukodi.com/developer/cineapp/cineapp.php?2535
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|CANAL 5 HONDURAS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2534
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|LAS ESTRELLAS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2533
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|LAS ESTRELLAS HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2532
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|CANAL + ACCIÓN
-https://m3ukodi.com/developer/cineapp/cineapp.php?2531
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|CARACOL (COL)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2530
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|CARACOL
-https://m3ukodi.com/developer/cineapp/cineapp.php?2529
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|CNN ESPAÑOL
-https://m3ukodi.com/developer/cineapp/cineapp.php?2528
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|COMEDY CENTRAL
-https://m3ukodi.com/developer/cineapp/cineapp.php?2527
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|COMEDY CENTRAL HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2526
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|COMEDY CENTRAL HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2525
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|DHE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2524
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|DISTRITO COMEDIA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2523
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|ECUAVISA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2522
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|EL TRECE ARGENTINA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2521
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|EL GOURMET
-https://m3ukodi.com/developer/cineapp/cineapp.php?2520
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|EL NUEVE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2519
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|EL TRECE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2518
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|EL TRECE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2517
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|ESTRELLA TV
-https://m3ukodi.com/developer/cineapp/cineapp.php?2516
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|FILMS & ARTS HD (EN)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2515
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|GALA TV
-https://m3ukodi.com/developer/cineapp/cineapp.php?2514
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|GALA TV HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2513
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|GAMAVISIÓN
-https://m3ukodi.com/developer/cineapp/cineapp.php?2512
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|GLITZ
-https://m3ukodi.com/developer/cineapp/cineapp.php?2511
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|HCH
-https://m3ukodi.com/developer/cineapp/cineapp.php?2510
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|HOLA TV
-https://m3ukodi.com/developer/cineapp/cineapp.php?2509
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|I.SAT
-https://m3ukodi.com/developer/cineapp/cineapp.php?2508
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|IMAGEN TV
-https://m3ukodi.com/developer/cineapp/cineapp.php?2507
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|IMAGEN TV HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2506
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|LATINA TV
-https://m3ukodi.com/developer/cineapp/cineapp.php?2505
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|LIFE TIME
-https://m3ukodi.com/developer/cineapp/cineapp.php?2504
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|MAS CHIC
-https://m3ukodi.com/developer/cineapp/cineapp.php?2503
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|MEGA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2502
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|MEGA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2501
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|MEGA (ES)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2500
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|MOVISTAR COMEDIA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2499
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|MULTIMEDIOS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2498
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|MULTIPREMIER
-https://m3ukodi.com/developer/cineapp/cineapp.php?2497
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|NEOX (ES)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2496
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|NOVA (ES)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2495
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|PASIONES HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2494
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|PERÚ LATINA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2493
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|RCN (COL)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2492
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|RTP
-https://m3ukodi.com/developer/cineapp/cineapp.php?2491
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|SHOWTIME
-https://m3ukodi.com/developer/cineapp/cineapp.php?2490
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TC ECUADOR
-https://m3ukodi.com/developer/cineapp/cineapp.php?2489
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TCM
-https://m3ukodi.com/developer/cineapp/cineapp.php?2488
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TELE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2487
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TELEAMAZONAS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2486
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TELEFE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2485
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TELEMUNDO
-https://m3ukodi.com/developer/cineapp/cineapp.php?2484
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TELEMUNDO HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2483
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TELEVICENTRO
-https://m3ukodi.com/developer/cineapp/cineapp.php?2482
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TLC
-https://m3ukodi.com/developer/cineapp/cineapp.php?2481
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TL NOVELAS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2480
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TL NOVELAS HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2479
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TRECE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2478
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TRU TV
-https://m3ukodi.com/developer/cineapp/cineapp.php?2477
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TRU TV HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2476
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|TVE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2475
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|UNICABLE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2474
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|UNICABLE HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2473
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|UNIVISIÓN
-https://m3ukodi.com/developer/cineapp/cineapp.php?2472
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|UNIVISIÓN TL NOVELAS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2471
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|UNO
-https://m3ukodi.com/developer/cineapp/cineapp.php?2470
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",ENTRETENIMIENTO #4|WAPA (PR)
-https://m3ukodi.com/developer/cineapp/cineapp.php?2469
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|AFIZZIONADOS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2468
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|AYM SPORTS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2467
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|BEIN HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2466
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|BEIN SPORTS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2465
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|BEIN SPORTS HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2464
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|BEIN SPORTS Ñ
-https://m3ukodi.com/developer/cineapp/cineapp.php?2463
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|BEIN SPORTS Ñ HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2462
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|EL CANAL DEL FÚTBOL
-https://m3ukodi.com/developer/cineapp/cineapp.php?2461
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|CANAL + TOROS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2460
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|CDF PREMIUM
-https://m3ukodi.com/developer/cineapp/cineapp.php?2459
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|CDF PREMIUM HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2458
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|CDN SPORTSMAX
-https://m3ukodi.com/developer/cineapp/cineapp.php?2457
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|CDO PREMIUM
-https://m3ukodi.com/developer/cineapp/cineapp.php?2456
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|CLARO SPORTS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2455
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|DIRECTV SPORTS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2454
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|DIRECTV SPORTS 2
-https://m3ukodi.com/developer/cineapp/cineapp.php?2453
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|DIRECTV SPORTS PERÚ
-https://m3ukodi.com/developer/cineapp/cineapp.php?2452
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN
-https://m3ukodi.com/developer/cineapp/cineapp.php?2451
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN 2
-https://m3ukodi.com/developer/cineapp/cineapp.php?2450
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN 2 HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2449
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN 2 MX
-https://m3ukodi.com/developer/cineapp/cineapp.php?2448
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN 3 HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2447
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN CHILE
-https://m3ukodi.com/developer/cineapp/cineapp.php?2446
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2445
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN MX
-https://m3ukodi.com/developer/cineapp/cineapp.php?2444
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN PLUS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2443
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|ESPN PLUS HD
-https://m3ukodi.com/developer/cineapp/cineapp.php?2442
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|F1 TV
-https://m3ukodi.com/developer/cineapp/cineapp.php?2441
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|FOX SPORTS
-https://m3ukodi.com/developer/cineapp/cineapp.php?2440
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|FOX SPORTS 2
-https://m3ukodi.com/developer/cineapp/cineapp.php?2439
-#EXTINF:0 tvg-id="ext" group-title="CINEAPP",DEPORTES #4|FOX SPORTS 2 HD ARGENTINA
-https://m3ukodi.com/developer/cineapp/cineapp.php?2438
+#EXTINF:-1,NICKELODEON
+http://95.211.250.58/NICKELODEON/index.m3u8
+#EXTINF:-1,ANIMAL_PLANET HD
+http://95.211.250.58/ANIMAL_PLANET/index.m3u8
+#EXTINF:-1,PARAMOUNT_CHANNEL HD
+http://95.211.250.58/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:-1,VIVID_RED HD
+http://95.211.250.58/VIVID_RED/index.m3u8
+#EXTINF:-1,HGTV HD
+http://95.211.250.58/HGTV/index.m3u8
+#EXTINF:-1,BRAZZERS HD
+http://95.211.250.58/BRAZZERS/index.m3u8
+#EXTINF:-1,CINEMAX HD
+http://95.211.250.58/CINEMAX/index.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://95.211.250.58/BOOMERANG/index.m3u8
+#EXTINF:-1,cbs_reality HD
+http://95.211.250.58/cbs_reality/index.m3u8
+#EXTINF:-1,FOX HD
+http://95.211.250.58/FOX/index.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://95.211.250.58/DISCOVERY/index.m3u8
+#EXTINF:-1,DTX HD
+http://95.211.250.58/DTX/index.m3u8
+#EXTINF:-1,ESKA_TV HD
+http://95.211.250.58/ESKA_TV/index.m3u8
+#EXTINF:-1,TVN HD
+http://95.211.250.58/TVN/index.m3u8
+#EXTINF:-1,TVN_7 HD
+http://95.211.250.58/TVN_7/index.m3u8
+#EXTINF:-1,BBC HD
+http://95.211.250.58/BBC/index.m3u8
+#EXTINF:-1,H2 HD
+http://95.211.250.58/H2/index.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://95.211.250.58/BOOMERANG/index.m3u8
+#EXTINF:-1,FILMBOX HD
+http://95.211.250.58/FILMBOX/index.m3u8
+#EXTINF:-1,HISTORY HD
+http://95.211.250.58/HISTORY/index.m3u8
+#EXTINF:-1,disney_xd
+http://95.211.250.58/disney_xd/index.m3u8
+#EXTINF:-1,FOX HD
+http://95.211.250.58/FOX/index.m3u8
+#EXTINF:-1,TELE_5
+http://95.211.250.58/TELE_5/index.m3u8
+#EXTINF:-1,TVN HD
+http://95.211.250.58/TVN/index.m3u8
+#EXTINF:-1,AXN HD
+http://95.211.250.58/AXN/index.m3u8
+#EXTINF:-1,HBO HD
+http://95.211.250.58/HBO/index.m3u8
+#EXTINF:-1,TVN HD
+http://95.211.250.58/TVN/index.m3u8
+#EXTINF:-1,NAT_GEO_WILD HD
+http://95.211.250.58/NAT_GEO_WILD/index.m3u8
+#EXTINF:-1,HBO HD
+http://95.211.250.58/HBO/index.m3u8
+#EXTINF:-1,E HD
+http://95.211.250.58/E/index.m3u8
+#EXTINF:-1,da_vinci
+http://95.211.250.58/da_vinci/index.m3u8
+#EXTINF:-1,NICK_JR
+http://95.211.250.58/NICK_JR/index.m3u8
+#EXTINF:-1,TRAVEL_CHANNEL HD
+http://95.211.250.58/TRAVEL_CHANNEL/index.m3u8
+#EXTINF:-1,H2 HD
+http://95.211.250.58/H2/index.m3u8
+#EXTINF:-1,DTX HD
+http://95.211.250.58/DTX/index.m3u8
+#EXTINF:-1,TV6 HD
+http://95.211.250.58/TV6/index.m3u8
+#EXTINF:-1,TV4 HD
+http://95.211.250.58/TV4/index.m3u8
+#EXTINF:-1,TLC HD
+http://95.211.250.58/TLC/index.m3u8
+#EXTINF:-1,H2 HD
+http://95.211.250.58/H2/index.m3u8
